@@ -25,6 +25,10 @@ To use reponav, simply import the _get_struct_ function and pass in the name or 
 
 `repo = 'username/repo'`
 
+`# or 'https://github.com/username/repo'`
+
+
+
 `get_struct(repo)`
 
 
@@ -33,6 +37,9 @@ or:
 `import reponav`
 
 `reponav.get_struct('username/repo')`
+
+`# or 'https://github.com/username/repo'`
+
 
 _get_struct_ will print out a tree-like structure of the repository's contents to the console.
 
