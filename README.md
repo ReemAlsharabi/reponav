@@ -11,10 +11,6 @@ _reponav_ is a Python package that allows you to easily navigate the contents of
 
 `pip install reponav`
 
-**Alternatively, you can install reponav from source by cloning the repository and running the following command in the directory:**
-
-`pip install -e .`
-
 
 ## Dependencies
 `github`
