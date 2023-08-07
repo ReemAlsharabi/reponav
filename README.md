@@ -1,4 +1,6 @@
 # reponav 1.1.2
+```note: This project was done before github's recent update that allows us to navigate through repos```
+
 _reponav_ is a Python package that allows you to easily navigate the contents of a GitHub repository. Given a repository name or URL, _reponav_ will print out a tree-like structure of the repository's contents, including directories and files.
 
 
